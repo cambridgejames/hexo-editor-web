@@ -19,7 +19,7 @@
 <style scoped>
   #editor {
     margin: auto;
-    width: 80%;
-    height: 580px;
+    width: 100%;
+    height: 100px;
   }
 </style>
